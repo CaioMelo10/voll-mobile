@@ -27,3 +27,6 @@ Usar a biblioteca Native Base e TypeScript para criar uma aplicação para consu
 `npm install`
 3. Execute a aplicação com o comando 
 `npx expo start`
+
+🖼️ - Layout:
+O layout da aplicação mobile está disponível neste link: https://www.figma.com/design/61CRNXlUmooMttGVa0GvML/React-fullstack---Voll.med?node-id=444-7240&t=pBi8tlGWVh1Funt8-0
